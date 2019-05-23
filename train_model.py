@@ -1,3 +1,5 @@
+# Runs all the selected neural network models
+
 from keras.models import Model, load_model
 from keras.layers import CuDNNLSTM, CuDNNGRU, Input, Dropout
 from keras.layers import Dense, Concatenate, Lambda, Flatten
