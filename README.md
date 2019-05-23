@@ -9,3 +9,6 @@ The code is briefly commented for now and we plan to elaborate their application
 ## Other Details
 **TAG.pdf** contains the thesis paper for Temporal Activity Graphs.
 **THESIS_REPORT.pdf** contains our bachelor thesis project.
+**TAG_CODE** directory has the necessary code to create a TAG from tracking data.
+
+Tracking data is available on the respective dataset websites as mentioned in our bachelor thesis project.
