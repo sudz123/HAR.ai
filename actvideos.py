@@ -1,3 +1,5 @@
+# Extracts skeletal tracking data from Videos
+
 import os
 
 Acts = os.listdir('../openpose_test/result/Act_Videos2/')
