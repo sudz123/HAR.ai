@@ -1,3 +1,5 @@
+# Provides videos with skeletal tracking 
+
 import os
 
 Videos = os.listdir('../../Downloads/Act_Videos2/videos/')
